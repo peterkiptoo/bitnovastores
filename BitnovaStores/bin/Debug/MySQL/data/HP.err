@@ -1,0 +1,174 @@
+211001 17:43:16 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:43:16 InnoDB: The InnoDB memory heap is disabled
+211001 17:43:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:43:16 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:43:16 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:43:16 InnoDB: Completed initialization of buffer pool
+211001 17:43:16 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:43:16 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:43:16 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:45:34 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:45:34 InnoDB: The InnoDB memory heap is disabled
+211001 17:45:34 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:45:34 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:45:34 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:45:34 InnoDB: Completed initialization of buffer pool
+211001 17:45:34 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:45:34 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:45:34 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:45:34 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:45:34 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:45:34 [ERROR] Aborting
+
+211001 17:45:34 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:47:04 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:47:04 InnoDB: The InnoDB memory heap is disabled
+211001 17:47:04 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:47:04 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:47:04 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:47:04 InnoDB: Completed initialization of buffer pool
+211001 17:47:04 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:47:04 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:47:04 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:47:04 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:47:04 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:47:04 [ERROR] Aborting
+
+211001 17:47:04 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:47:21 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:47:21 InnoDB: The InnoDB memory heap is disabled
+211001 17:47:21 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:47:21 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:47:21 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:47:21 InnoDB: Completed initialization of buffer pool
+211001 17:47:21 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:47:21 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:47:21 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:47:21 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:47:21 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:47:21 [ERROR] Aborting
+
+211001 17:47:21 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:47:24 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:47:24 InnoDB: The InnoDB memory heap is disabled
+211001 17:47:24 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:47:24 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:47:24 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:47:24 InnoDB: Completed initialization of buffer pool
+211001 17:47:24 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:47:24 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:47:24 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:47:24 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:47:24 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:47:24 [ERROR] Aborting
+
+211001 17:47:24 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:48:36 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:48:37 InnoDB: The InnoDB memory heap is disabled
+211001 17:48:37 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:48:37 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:48:37 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:48:37 InnoDB: Completed initialization of buffer pool
+211001 17:48:37 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:48:37 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:48:37 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:48:37 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:48:37 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:48:37 [ERROR] Aborting
+
+211001 17:48:37 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:48:41 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:48:41 InnoDB: The InnoDB memory heap is disabled
+211001 17:48:41 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:48:41 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:48:41 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:48:41 InnoDB: Completed initialization of buffer pool
+211001 17:48:41 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:48:41 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:48:41 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:48:41 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:48:41 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:48:41 [ERROR] Aborting
+
+211001 17:48:41 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:56:19 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:56:19 InnoDB: The InnoDB memory heap is disabled
+211001 17:56:19 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:56:19 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:56:19 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:56:19 InnoDB: Completed initialization of buffer pool
+211001 17:56:19 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:56:19 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:56:19 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:56:19 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:56:19 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:56:19 [ERROR] Aborting
+
+211001 17:56:19 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 17:56:47 [Note] Plugin 'FEDERATED' is disabled.
+211001 17:56:47 InnoDB: The InnoDB memory heap is disabled
+211001 17:56:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 17:56:47 InnoDB: Compressed tables use zlib 1.2.3
+211001 17:56:47 InnoDB: Initializing buffer pool, size = 128.0M
+211001 17:56:47 InnoDB: Completed initialization of buffer pool
+211001 17:56:47 InnoDB: Error: tablespace size must be at least 10 MB
+211001 17:56:47 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 17:56:47 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 17:56:47 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 17:56:47 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 17:56:47 [ERROR] Aborting
+
+211001 17:56:47 [Note] C:\Users\User\Documents\Visual Studio 2015\Projects\BitnovaStores\BitnovaStores\bin\Debug\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 18:55:21 [Note] Plugin 'FEDERATED' is disabled.
+211001 18:55:21 InnoDB: The InnoDB memory heap is disabled
+211001 18:55:21 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 18:55:21 InnoDB: Compressed tables use zlib 1.2.3
+211001 18:55:21 InnoDB: Initializing buffer pool, size = 128.0M
+211001 18:55:21 InnoDB: Completed initialization of buffer pool
+211001 18:55:21 InnoDB: Error: tablespace size must be at least 10 MB
+211001 18:55:21 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 18:55:21 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 18:55:21 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 18:55:21 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 18:55:21 [ERROR] Aborting
+
+211001 18:55:22 [Note] C:\Program Files (x86)\BITNOVA TECHNOLOGIES\Bitnova Stores\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 19:03:37 [Note] Plugin 'FEDERATED' is disabled.
+211001 19:03:37 InnoDB: The InnoDB memory heap is disabled
+211001 19:03:37 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 19:03:37 InnoDB: Compressed tables use zlib 1.2.3
+211001 19:03:37 InnoDB: Initializing buffer pool, size = 128.0M
+211001 19:03:37 InnoDB: Completed initialization of buffer pool
+211001 19:03:37 InnoDB: Error: tablespace size must be at least 10 MB
+211001 19:03:37 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 19:03:37 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 19:03:37 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 19:03:37 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 19:03:37 [ERROR] Aborting
+
+211001 19:03:37 [Note] C:\Program Files (x86)\BITNOVA TECHNOLOGIES\Bitnova Stores\MySQL\bin\mysqld.exe: Shutdown complete
+
+211001 19:09:29 [Note] Plugin 'FEDERATED' is disabled.
+211001 19:09:29 InnoDB: The InnoDB memory heap is disabled
+211001 19:09:29 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+211001 19:09:29 InnoDB: Compressed tables use zlib 1.2.3
+211001 19:09:29 InnoDB: Initializing buffer pool, size = 128.0M
+211001 19:09:29 InnoDB: Completed initialization of buffer pool
+211001 19:09:29 InnoDB: Error: tablespace size must be at least 10 MB
+211001 19:09:29 [ERROR] Plugin 'InnoDB' init function returned error.
+211001 19:09:29 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+211001 19:09:29 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+211001 19:09:29 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+211001 19:09:29 [ERROR] Aborting
+
+211001 19:09:29 [Note] C:\Program Files (x86)\BITNOVA TECHNOLOGIES\Bitnova Stores\MySQL\bin\mysqld.exe: Shutdown complete
+
